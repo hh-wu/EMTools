@@ -86,7 +86,7 @@ transfer systems.
   可视化效果更好的绕组设计小工具
 - [FAQ：如何加快Maxwell2D瞬态场求解速度？](https://mp.weixin.qq.com/s/Z6Q8c48AY6by-a27AyLeCQ) 来自“ANSYS中国”的推荐设置
 - [FAQ：如何区分Maxwell中的SolidLossStrandedLossStrandedLossR？](https://mp.weixin.qq.com/s/txnxiyJ30Rkd1M8zvombWQ) 来自“ANSYS中国”的推荐设置
-
+- [Maxwell IPM UDO](docs/udo_IPM) Ansys中国低频技术团队针对新能源汽车电机行业常见的V型内置式永磁体拓扑结构开发了V Shape IPM Rotor UDP脚本，这个UDP支持分别创建转子冲片、永磁体、永磁体槽、转子表面辅助槽几何模型，另外通过多个UDP布尔操作可得到双V、双一、V一等复杂拓扑结构，脚本语言基于Maxwell UDP框架的Ironpython，用户可以通过学习脚本代码，进一步开发自己的UDP。
 
 # [3. 特别主题 / Special topics](#目录-index)
 
